@@ -1,6 +1,6 @@
-import { config } from "dotenv";
-import { Client, GatewayIntentBits, Routes } from "discord.js";
-import { REST } from "@discordjs/rest";
+import { config } from 'dotenv';
+import { Client, GatewayIntentBits, Routes } from 'discord.js';
+import { REST } from '@discordjs/rest';
 
 config();
 

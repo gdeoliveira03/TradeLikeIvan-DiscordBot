@@ -1,1 +1,1 @@
-Worker: node ./src/index.js
+Worker: node --experimental-specifier-resolution=node ./src/index.js
